@@ -17,6 +17,11 @@ html {
 
 }
 
-li {
+.recipe-list li {
     list-style-type: none;
+}
+
+.recipe-image {
+    width: 500px;
+    height: auto;
 }
