@@ -1,0 +1,22 @@
+html {
+    font-family: 'Courier New', Courier, monospace;
+    background-color: rgb(171, 225, 211);
+}
+
+.title {
+    text-align: center;
+    color: rgb(25, 25, 25);
+    font-size: 48px;
+}
+
+.recipe-link {
+    color: rgb(80, 22, 87);
+    font-size: 32px;
+    font-weight: 100;
+    font-family: "Brush Script MT", sans-serif;
+
+}
+
+li {
+    list-style-type: none;
+}
